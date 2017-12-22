@@ -1,4 +1,10 @@
 module.exports = {
+  modules: [
+    '@nuxtjs/markdownit'
+  ],
+  markdownit: {
+    injected: true
+  },
   /*
   ** Headers of the page
   */
