@@ -1,18 +1,36 @@
 <template>
     <aside class="col-sm-3 ml-sm-auto blog-sidebar">
-        <div class="sidebar-module sidebar-module-inset">
+        <!-- <div class="sidebar-module sidebar-module-inset">
             <h4>About</h4>
             <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
-        </div>
+        </div> -->
         <div class="sidebar-module">
-            <h4>Archives</h4>
+            <h4>Contents</h4>
             <ol class="list-unstyled">
-                <li><a href="#">March 2014</a></li>
-                <li><a href="#">February 2014</a></li>
-                <li><a href="#">January 2014</a></li>
-                <li><a href="#">December 2013</a></li>
-                <li><a href="#">November 2013</a></li>
-                <li><a href="#">October 2013</a></li>
+                <li><nuxt-link to="/book/foreword">Foreword</nuxt-link></li>
+                <li><nuxt-link to="/book/chapter1a">Chapter 1 - Part A</nuxt-link></li>
+                <li><nuxt-link to="/book/chapter1b">Chapter 1 - Part B</nuxt-link></li>
+                <li><nuxt-link to="/book/chapter1c">Chapter 1 - Part C</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 2</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 3</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 4</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 5</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 6</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 7</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 8</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 9</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 10</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 11</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 12</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 13</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 14</nuxt-link></li>
+                <li><nuxt-link to="/book/foreword">Chapter 15</nuxt-link></li>
+                <li><a href="#">Foreword</a></li>
+                <li><a href="#">Introduction</a></li>
+                <li><a href="#">O'Neills Rebellion and the Flight of the Earls</a></li>
+                <li><a href="#">The Plantation of Ulster</a></li>
+                <li><a href="#">The Plantation of the Faughan Valley</a></li>
+                <li><a href="#">Contention between the Church of Ireland and Presbyterian Dissenters</a></li>
                 <li><a href="#">September 2013</a></li>
                 <li><a href="#">August 2013</a></li>
                 <li><a href="#">July 2013</a></li>

@@ -3,7 +3,7 @@
         <div class="blog-masthead">
             <div class="container">
                 <nav class="nav">
-                    <a class="nav-link active" href="#">Home</a>
+                    <nuxt-link class="nav-link active" to="/">Home</nuxt-link>
                     <a class="nav-link" href="#">New features</a>
                     <a class="nav-link" href="#">Press</a>
                     <a class="nav-link" href="#">New hires</a>
@@ -15,7 +15,7 @@
         <div class="blog-header">
             <div class="container">
                 <h1 class="blog-title">The Bush Still Burns</h1>
-                <p class="lead blog-description">An example blog template built with Bootstrap.</p>
+                <p class="lead blog-description">A History of Glendermott Presbyterian Church</p>
             </div>
         </div>
     </header>
