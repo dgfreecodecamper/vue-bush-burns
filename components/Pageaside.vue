@@ -11,11 +11,11 @@
                 <li><nuxt-link to="/book/chapter1a">Chapter 1 - Part A</nuxt-link></li>
                 <li><nuxt-link to="/book/chapter1b">Chapter 1 - Part B</nuxt-link></li>
                 <li><nuxt-link to="/book/chapter1c">Chapter 1 - Part C</nuxt-link></li>
-                <li><nuxt-link to="/book/foreword">Chapter 2</nuxt-link></li>
-                <li><nuxt-link to="/book/foreword">Chapter 3</nuxt-link></li>
-                <li><nuxt-link to="/book/foreword">Chapter 4</nuxt-link></li>
-                <li><nuxt-link to="/book/foreword">Chapter 5</nuxt-link></li>
-                <li><nuxt-link to="/book/foreword">Chapter 6</nuxt-link></li>
+                <li><nuxt-link to="/book/chapter2">Chapter 2</nuxt-link></li>
+                <li><nuxt-link to="/book/chapter3">Chapter 3</nuxt-link></li>
+                <li><nuxt-link to="/book/chapter4">Chapter 4</nuxt-link></li>
+                <li><nuxt-link to="/book/chapter5">Chapter 5</nuxt-link></li>
+                <li><nuxt-link to="/book/chapter6">Chapter 6</nuxt-link></li>
                 <li><nuxt-link to="/book/foreword">Chapter 7</nuxt-link></li>
                 <li><nuxt-link to="/book/foreword">Chapter 8</nuxt-link></li>
                 <li><nuxt-link to="/book/foreword">Chapter 9</nuxt-link></li>
