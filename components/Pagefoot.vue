@@ -1,8 +1,14 @@
 <template>
     <footer class="blog-footer">
-        <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+        <h2>Glendermott Presbyterian Church</h2>
         <p>
-            <a href="#">Back to top</a>
+            Vacancy Convener: Rev Knox Jones
+        </p>
+        <p>
+            Glendermott Congregation Of The Presbyterian Church In Ireland
+        </p>
+        <p>
+            Charity no. 105661
         </p>
     </footer>
 </template>

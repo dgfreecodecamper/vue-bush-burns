@@ -4,10 +4,8 @@
             <div class="container">
                 <nav class="nav">
                     <nuxt-link class="nav-link active" to="/">Home</nuxt-link>
-                    <a class="nav-link" href="#">New features</a>
-                    <a class="nav-link" href="#">Press</a>
-                    <a class="nav-link" href="#">New hires</a>
-                    <a class="nav-link" href="#">About</a>
+                    <a class="nav-link" href="http://glendermottpc.org" target="_blank">Main Church Site</a>
+                    <nuxt-link class="nav-link" to="/about">About</nuxt-link>
                 </nav>
             </div>
 
